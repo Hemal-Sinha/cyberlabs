@@ -46,3 +46,8 @@ my Accuracy was : 79.9%
 for data given. I made a cluster of 50 for the dataset as at k = 50 N , I got
 
 an Accuracy of : 40.6% 
+
+~Neural Network : It is a model which predicts outputs for the given inputs.It 
+consists of one input layer, one output layer and one hidden layer.
+
+Error and Incomplete
